@@ -4,6 +4,6 @@ A Deep Learning model built to predict the stock price for a given company(TESLA
 
 The model is based on a LSTM(Long Short Term Memory) algorithm a type of RNN(Recurrent Neural Network).
 
-Currently the model has access to data dating back only 100 days from today and predicts the value of last 20 days of stock prices with validation. 
+The data trained dates back to 20 years ago till date(2023/12/10).
 
 ![image](https://github.com/aadeshshrestha306/Stock_Price_Prediction_Using_Lstm/assets/36654097/dc0ac574-204a-4b65-8581-e2dd8f96da3f)
