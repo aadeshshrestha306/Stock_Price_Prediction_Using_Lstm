@@ -11,6 +11,6 @@ The data trained dates back to 20 years ago till date(2023/12/10).
 
 ### Errors and Disturbances
 
-The final chart may show a close predictions to actual values but stock prices are dependent on multiple external factors. This is one of my first time training a RNN model.
+The final chart may show a close prediction to actual values but stock prices are dependent on multiple external factors. This is one of my first time training a RNN model.
 
 Any help and suggestion is appreciated.
